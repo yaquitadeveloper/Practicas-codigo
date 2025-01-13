@@ -1,0 +1,27 @@
+body {
+    background-color: #e89324;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+
+}
+
+p {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+    /*texto en negrita */
+    font-style: italic;
+    /*tecto en cursiva*/
+    line-height: 1.5;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #1c1a18;
+    border: 5px solid #ffffff;
+    border-radius: 10px;
+}
+
+a {
+    color: #fcffff;
+    text-decoration: none;
+}
