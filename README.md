@@ -18,4 +18,4 @@
         └── 0
             ├── pregunta
             ├── opciones
-            └── respuestaCorrecta ```
+            └── respuestaCorrecta
