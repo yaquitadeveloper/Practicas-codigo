@@ -2,7 +2,7 @@
 
 ## Preguntas
 
-```preguntas
+```Categorias(Peliculas,ujegos,Musica, etc...)
 └── Películas
     ├── Facil
     │   └── 0
