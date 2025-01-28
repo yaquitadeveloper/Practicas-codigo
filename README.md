@@ -2,7 +2,7 @@
 
 ## Preguntas
 
-└── Películas  
+`└── Películas  
     ├── Fácil  
     │   └── 0  
     │       ├── pregunta  
@@ -17,4 +17,4 @@
         └── 0  
             ├── pregunta  
             ├── opciones  
-            └── respuestaCorrecta  
+            └── respuestaCorrecta ` 
