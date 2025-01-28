@@ -2,8 +2,8 @@
 
 ## Preguntas
 
-```Categorias(Peliculas,ujegos,Musica, etc...)
-└── Películas
+```
+└──Categorias(Peliculas,ujegos,Musica, etc...)
     ├── Facil
     │   └── 0
     │       ├── pregunta
