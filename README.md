@@ -2,20 +2,21 @@
 
 ## Preguntas
 ```preguntas
-└── Categoria
-  └──Dificultad
-      ├── Facil
-      │   └── 0
-      │       ├── pregunta
-      │       ├── opciones
-      │       └── respuestaCorrecta
-      ├── Medio
-      │   └── 0
-      │       ├── pregunta
-      │       ├── opciones
-      │       └── respuestaCorrecta
-      └── Dificil
-        └── 0
-            ├── pregunta
-            ├── opciones
-            └── respuestaCorrecta
+└── categorias
+    └── Nombre de la categoria(Películas)
+        └── dificultades
+            ├── Facil
+            │   └── 0
+            │       ├── pregunta
+            │       ├── opciones
+            │       └── respuestaCorrecta
+            ├── Medio
+            │   └── 0
+            │       ├── pregunta
+            │       ├── opciones
+            │       └── respuestaCorrecta
+            └── Dificil
+                └── 0
+                    ├── pregunta
+                    ├── opciones
+                    └── respuestaCorrecta
