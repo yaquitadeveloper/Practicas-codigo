@@ -4,27 +4,20 @@
 
 `└── Películas`
 
-   `├── Fácil` 
+   `├── Fácil
+   │   └── 0
+   │       ├── pregunta
+   │       ├── opciones  
+   │       └── respuestaCorrecta ` 
    
-   `│   └── 0` 
+   `├── Medio
+   │   └── 0  
+   │       ├── pregunta 
+   │       ├── opciones 
+   │       └── respuestaCorrecta` 
    
-   `│       ├── pregunta`
-   
-   `│       ├── opciones`
-   
-   `│       └── respuestaCorrecta`  
-   
-   `├── Medio`
-   
-   `│   └── 0`  
-   
-   `│       ├── pregunta` 
-   
-   `│       ├── opciones` 
-   
-   `│       └── respuestaCorrecta`  
-   `└── Difícil` 
-       ` └── 0`
-           `├── pregunta`
-           `├── opciones`  
-            `└── respuestaCorrecta` 
+   `└── Difícil
+        └── 0
+           ├── pregunta
+           ├── opciones
+           └── respuestaCorrecta` 
