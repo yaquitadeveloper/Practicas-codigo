@@ -2,6 +2,19 @@
 
 ## Preguntas
 
-`preguntas └── Películas ├── Facil │ └── 0 │ ├── pregunta │ ├── opciones │ └──`
-`respuestaCorrecta ├── Medio │ └── 0 │ ├── pregunta │ ├── opciones │ └── respuestaCorrecta`
-`└── Dificil └── 0 ├── pregunta ├── opciones └── respuestaCorrecta`
+`└── Películas  `
+   ` ├── Fácil`  
+   ` │   └── 0 ` 
+   ` │       ├── pregunta  `
+  `  │       ├── opciones  `
+   ` │       └── respuestaCorrecta`  
+   ` ├── Medio  `
+   ` │   └── 0`  
+   ` │       ├── pregunta ` 
+   ` │       ├── opciones ` 
+   ` │       └── respuestaCorrecta`  
+   ` └── Difícil ` 
+       ` └── 0  `
+           ` ├── pregunta  `
+           ` ├── opciones`  
+            `└── respuestaCorrecta ` 
